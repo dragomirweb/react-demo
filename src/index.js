@@ -13,7 +13,7 @@ function App() {
       <Star color="magenta" />
       <Star color="indigo" isFilled />
       <h2>Rating Component (uses Stars):</h2>
-      <Rating stars={4} />
+      <Rating stars={5} />
     </div>
   );
 }
